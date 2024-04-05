@@ -1,0 +1,206 @@
+seguro,simbolizacion,perdidas_normalizadas,hecho,tipo_combustible,aspiracion,num_puertas,estilo_cuerpo,ruedas_motrices,ubicacion_motor,ancho,altura,tipo_motor,num_de_cilindros,sistema_de_combustible,diametro_cilindro,recorrido_piston,caballos_fuerza,rpm_maximo,precio
+riesgoso,-2,103.0,volvo,gas,std,four,sedan,rwd,front,67.2,56.2,ohc,four,mpfi,3.78,3.15,114.0,5400.0,12940.0
+riesgoso,-2,103.0,volvo,gas,std,four,sedan,rwd,front,67.2,56.2,ohc,four,mpfi,3.78,3.15,114.0,5400.0,15985.0
+riesgoso,-2,103.0,volvo,gas,turbo,four,sedan,rwd,front,67.2,56.2,ohc,four,mpfi,3.62,3.15,162.0,5100.0,18420.0
+riesgoso,-1,110.0,dodge,gas,std,four,wagon,fwd,front,64.6,59.8,ohc,four,2bbl,3.34,3.46,88.0,5000.0,8921.0
+riesgoso,-1,93.0,mercedes-benz,diesel,turbo,four,sedan,rwd,front,70.3,56.5,ohc,five,idi,3.58,3.64,123.0,4350.0,25552.0
+riesgoso,-1,93.0,mercedes-benz,diesel,turbo,four,wagon,rwd,front,70.3,58.7,ohc,five,idi,3.58,3.64,123.0,4350.0,28248.0
+riesgoso,-1,93.0,mercedes-benz,diesel,turbo,four,sedan,rwd,front,71.7,56.3,ohc,five,idi,3.58,3.64,123.0,4350.0,31600.0
+riesgoso,-1,82.89,mercedes-benz,gas,std,four,sedan,rwd,front,71.7,56.5,ohcv,eight,mpfi,3.46,3.1,155.0,4750.0,34184.0
+riesgoso,-1,82.89,mitsubishi,gas,std,four,sedan,fwd,front,65.4,51.6,ohc,four,spdi,3.17,3.46,116.0,5500.0,9279.0
+riesgoso,-1,74.0,plymouth,gas,std,four,wagon,fwd,front,64.6,59.8,ohc,four,2bbl,3.35,3.46,88.0,5000.0,8921.0
+riesgoso,-1,65.0,toyota,gas,std,four,sedan,fwd,front,66.5,54.9,ohc,four,mpfi,3.31,3.54,92.0,4200.0,8948.0
+riesgoso,-1,65.0,toyota,diesel,turbo,four,sedan,fwd,front,66.5,54.9,ohc,four,idi,3.27,3.35,73.0,4500.0,10698.0
+riesgoso,-1,65.0,toyota,gas,std,four,hatchback,fwd,front,66.5,53.9,ohc,four,mpfi,3.31,3.54,92.0,4200.0,9988.0
+riesgoso,-1,65.0,toyota,gas,std,four,sedan,fwd,front,66.5,54.9,ohc,four,mpfi,3.31,3.54,92.0,4200.0,10898.0
+riesgoso,-1,65.0,toyota,gas,std,four,hatchback,fwd,front,66.5,53.9,ohc,four,mpfi,3.31,3.54,92.0,4200.0,11248.0
+riesgoso,-1,90.0,toyota,gas,std,four,sedan,rwd,front,66.5,54.1,dohc,six,mpfi,3.27,3.35,156.0,5200.0,15690.0
+riesgoso,-1,82.89,toyota,gas,std,four,wagon,rwd,front,66.5,54.1,dohc,six,mpfi,3.27,3.35,156.0,5200.0,15750.0
+riesgoso,-1,74.0,volvo,gas,std,four,wagon,rwd,front,67.2,57.5,ohc,four,mpfi,3.78,3.15,114.0,5400.0,13415.0
+riesgoso,-1,74.0,volvo,gas,std,four,wagon,rwd,front,67.2,57.5,ohc,four,mpfi,3.78,3.15,114.0,5400.0,16515.0
+riesgoso,-1,74.0,volvo,gas,turbo,four,wagon,rwd,front,67.2,57.5,ohc,four,mpfi,3.62,3.15,162.0,5100.0,18950.0
+riesgoso,-1,95.0,volvo,gas,std,four,sedan,rwd,front,68.9,55.5,ohc,four,mpfi,3.78,3.15,114.0,5400.0,16845.0
+riesgoso,-1,95.0,volvo,gas,turbo,four,sedan,rwd,front,68.8,55.5,ohc,four,mpfi,3.78,3.15,160.0,5300.0,19045.0
+riesgoso,-1,95.0,volvo,gas,std,four,sedan,rwd,front,68.9,55.5,ohcv,six,mpfi,3.58,2.87,134.0,5500.0,21485.0
+riesgoso,-1,95.0,volvo,diesel,turbo,four,sedan,rwd,front,68.9,55.5,ohc,six,idi,3.01,3.4,106.0,4800.0,22470.0
+riesgoso,-1,95.0,volvo,gas,turbo,four,sedan,rwd,front,68.9,55.5,ohc,four,mpfi,3.78,3.15,114.0,5400.0,22625.0
+no riesgoso,0,108.09,audi,gas,turbo,two,hatchback,4wd,front,67.9,52.0,ohc,five,mpfi,3.13,3.4,160.0,5500.0,11760.28
+no riesgoso,0,108.09,bmw,gas,std,four,sedan,rwd,front,64.8,54.3,ohc,four,mpfi,3.5,2.8,101.0,5800.0,16925.0
+no riesgoso,0,108.09,bmw,gas,std,two,sedan,rwd,front,64.8,54.3,ohc,six,mpfi,3.31,3.19,121.0,4250.0,20970.0
+no riesgoso,0,108.09,bmw,gas,std,four,sedan,rwd,front,64.8,54.3,ohc,six,mpfi,3.31,3.19,121.0,4250.0,21105.0
+no riesgoso,0,108.09,bmw,gas,std,four,sedan,rwd,front,66.9,55.7,ohc,six,mpfi,3.62,3.39,182.0,5400.0,11760.28
+no riesgoso,0,108.09,bmw,gas,std,two,sedan,rwd,front,67.9,53.7,ohc,six,mpfi,3.62,3.39,182.0,5400.0,11760.28
+no riesgoso,0,108.09,bmw,gas,std,four,sedan,rwd,front,70.9,56.3,ohc,six,mpfi,3.62,3.39,182.0,5400.0,11760.28
+no riesgoso,0,81.0,chevrolet,gas,std,four,sedan,fwd,front,63.6,52.0,ohc,four,2bbl,3.03,3.11,70.0,5400.0,6575.0
+no riesgoso,0,110.0,honda,gas,std,four,sedan,fwd,front,64.0,54.5,ohc,four,1bbl,2.91,3.41,76.0,6000.0,7295.0
+no riesgoso,0,78.0,honda,gas,std,four,wagon,fwd,front,63.9,58.3,ohc,four,1bbl,2.92,3.41,76.0,6000.0,7295.0
+no riesgoso,0,106.0,honda,gas,std,two,hatchback,fwd,front,65.2,53.3,ohc,four,1bbl,3.15,3.58,86.0,5800.0,7895.0
+no riesgoso,0,106.0,honda,gas,std,two,hatchback,fwd,front,65.2,53.3,ohc,four,1bbl,3.15,3.58,86.0,5800.0,9095.0
+no riesgoso,0,85.0,honda,gas,std,four,sedan,fwd,front,65.2,54.1,ohc,four,1bbl,3.15,3.58,86.0,5800.0,8845.0
+no riesgoso,0,85.0,honda,gas,std,four,sedan,fwd,front,62.5,54.1,ohc,four,1bbl,3.15,3.58,86.0,5800.0,10295.0
+no riesgoso,0,85.0,honda,gas,std,four,sedan,fwd,front,65.2,54.1,ohc,four,mpfi,3.15,3.58,101.0,5800.0,12945.0
+no riesgoso,0,108.09,isuzu,gas,std,four,sedan,rwd,front,61.8,53.5,ohc,four,2bbl,3.31,3.23,78.0,4800.0,6785.0
+no riesgoso,0,108.09,isuzu,gas,std,four,sedan,fwd,front,63.6,52.0,ohc,four,2bbl,3.03,3.11,70.0,5400.0,11760.28
+no riesgoso,0,145.0,jaguar,gas,std,four,sedan,rwd,front,69.6,52.8,dohc,six,mpfi,3.63,3.22,176.0,4750.0,11760.28
+no riesgoso,0,108.09,jaguar,gas,std,four,sedan,rwd,front,69.6,52.8,dohc,six,mpfi,3.63,3.22,176.0,4750.0,11760.28
+no riesgoso,0,108.09,jaguar,gas,std,two,sedan,rwd,front,70.6,47.8,ohcv,twelve,mpfi,3.54,2.76,262.0,5000.0,11760.28
+no riesgoso,0,115.0,mazda,gas,std,four,sedan,fwd,front,66.5,55.5,ohc,four,2bbl,3.39,3.39,84.0,4800.0,8495.0
+no riesgoso,0,115.0,mazda,gas,std,four,sedan,fwd,front,66.5,55.5,ohc,four,2bbl,3.39,3.39,84.0,4800.0,10245.0
+no riesgoso,0,108.09,mazda,diesel,std,four,sedan,fwd,front,66.5,55.5,ohc,four,idi,3.39,3.39,64.0,4650.0,10795.0
+no riesgoso,0,115.0,mazda,gas,std,four,hatchback,fwd,front,66.5,55.5,ohc,four,2bbl,3.39,3.39,84.0,4800.0,11245.0
+no riesgoso,0,118.0,mazda,gas,std,four,sedan,rwd,front,66.1,54.4,ohc,four,mpfi,3.76,3.16,120.0,5000.0,18280.0
+no riesgoso,0,108.09,mazda,diesel,std,four,sedan,rwd,front,66.1,54.4,ohc,four,idi,3.43,3.64,72.0,4200.0,18344.0
+no riesgoso,0,93.0,mercedes-benz,diesel,turbo,two,hardtop,rwd,front,70.3,54.9,ohc,five,idi,3.58,3.64,123.0,4350.0,28176.0
+no riesgoso,0,108.09,mercedes-benz,gas,std,four,sedan,rwd,front,71.7,56.7,ohcv,eight,mpfi,3.8,3.35,184.0,4500.0,11760.28
+no riesgoso,0,106.0,nissan,gas,std,four,hatchback,fwd,front,65.2,54.7,ohc,four,2bbl,3.33,3.47,97.0,5200.0,8949.0
+no riesgoso,0,106.0,nissan,gas,std,four,sedan,fwd,front,65.2,54.7,ohc,four,2bbl,3.33,3.47,97.0,5200.0,9549.0
+no riesgoso,0,128.0,nissan,gas,std,four,sedan,fwd,front,66.5,55.1,ohcv,six,mpfi,3.43,3.27,152.0,5200.0,13499.0
+no riesgoso,0,108.0,nissan,gas,std,four,wagon,fwd,front,66.5,56.1,ohcv,six,mpfi,3.43,3.27,152.0,5200.0,14399.0
+no riesgoso,0,108.0,nissan,gas,std,four,sedan,fwd,front,66.5,55.1,ohcv,six,mpfi,3.43,3.27,152.0,5200.0,13499.0
+no riesgoso,0,161.0,peugot,gas,std,four,sedan,rwd,front,68.4,56.7,l,four,mpfi,3.46,3.19,97.0,5000.0,11900.0
+no riesgoso,0,161.0,peugot,diesel,turbo,four,sedan,rwd,front,68.4,56.7,l,four,idi,3.7,3.52,95.0,4150.0,13200.0
+no riesgoso,0,108.09,peugot,gas,std,four,wagon,rwd,front,68.4,58.7,l,four,mpfi,3.46,3.19,97.0,5000.0,12440.0
+no riesgoso,0,108.09,peugot,diesel,turbo,four,wagon,rwd,front,68.4,58.7,l,four,idi,3.7,3.52,95.0,4150.0,13860.0
+no riesgoso,0,161.0,peugot,gas,std,four,sedan,rwd,front,68.4,56.7,l,four,mpfi,3.46,3.22,95.0,5000.0,15580.0
+no riesgoso,0,161.0,peugot,diesel,turbo,four,sedan,rwd,front,68.4,56.7,l,four,idi,3.7,3.52,95.0,4150.0,16900.0
+no riesgoso,0,108.09,peugot,gas,std,four,wagon,rwd,front,68.4,56.7,l,four,mpfi,3.46,3.22,95.0,5000.0,16695.0
+no riesgoso,0,108.09,peugot,diesel,turbo,four,wagon,rwd,front,68.4,58.7,l,four,idi,3.7,3.52,95.0,4150.0,17075.0
+no riesgoso,0,161.0,peugot,gas,std,four,sedan,rwd,front,68.4,56.7,l,four,mpfi,3.46,3.19,97.0,5000.0,16630.0
+no riesgoso,0,161.0,peugot,diesel,turbo,four,sedan,rwd,front,68.4,56.7,l,four,idi,3.7,3.52,95.0,4150.0,17950.0
+no riesgoso,0,161.0,peugot,gas,turbo,four,sedan,rwd,front,68.3,56.0,l,four,mpfi,3.61,3.21,142.0,5600.0,18150.0
+no riesgoso,0,108.09,renault,gas,std,four,wagon,fwd,front,66.5,55.2,ohc,four,mpfi,3.46,3.9,70.0,4970.45,9295.0
+no riesgoso,0,102.0,subaru,gas,std,four,sedan,fwd,front,65.4,52.5,ohcf,four,2bbl,3.62,2.64,82.0,4800.0,7126.0
+no riesgoso,0,102.0,subaru,gas,std,four,sedan,fwd,front,65.4,52.5,ohcf,four,2bbl,3.62,2.64,82.0,4400.0,7775.0
+no riesgoso,0,102.0,subaru,gas,std,four,sedan,fwd,front,65.4,52.5,ohcf,four,mpfi,3.62,2.64,94.0,5200.0,9960.0
+no riesgoso,0,102.0,subaru,gas,std,four,sedan,4wd,front,65.4,54.3,ohcf,four,2bbl,3.62,2.64,82.0,4800.0,9233.0
+no riesgoso,0,102.0,subaru,gas,turbo,four,sedan,4wd,front,65.4,54.3,ohcf,four,mpfi,3.62,2.64,111.0,4800.0,11259.0
+no riesgoso,0,89.0,subaru,gas,std,four,wagon,fwd,front,65.4,53.0,ohcf,four,2bbl,3.62,2.64,82.0,4800.0,7463.0
+no riesgoso,0,89.0,subaru,gas,std,four,wagon,fwd,front,65.4,53.0,ohcf,four,mpfi,3.62,2.64,94.0,5200.0,10198.0
+no riesgoso,0,85.0,subaru,gas,std,four,wagon,4wd,front,65.4,54.9,ohcf,four,2bbl,3.62,2.64,82.0,4800.0,8013.0
+no riesgoso,0,85.0,subaru,gas,turbo,four,wagon,4wd,front,65.4,54.9,ohcf,four,mpfi,3.62,2.64,111.0,4800.0,11694.0
+no riesgoso,0,77.0,toyota,gas,std,four,wagon,fwd,front,63.6,59.1,ohc,four,2bbl,3.05,3.03,62.0,4800.0,6918.0
+no riesgoso,0,81.0,toyota,gas,std,four,wagon,4wd,front,63.6,59.1,ohc,four,2bbl,3.05,3.03,62.0,4800.0,7898.0
+no riesgoso,0,91.0,toyota,gas,std,four,wagon,4wd,front,63.6,59.1,ohc,four,2bbl,3.05,3.03,62.0,4800.0,8778.0
+no riesgoso,0,91.0,toyota,gas,std,four,sedan,fwd,front,64.4,53.0,ohc,four,2bbl,3.19,3.03,70.0,4800.0,6938.0
+no riesgoso,0,91.0,toyota,gas,std,four,hatchback,fwd,front,64.4,52.8,ohc,four,2bbl,3.19,3.03,70.0,4800.0,7198.0
+no riesgoso,0,91.0,toyota,diesel,std,four,sedan,fwd,front,64.4,53.0,ohc,four,idi,3.27,3.35,56.0,4500.0,7898.0
+no riesgoso,0,91.0,toyota,diesel,std,four,hatchback,fwd,front,64.4,52.8,ohc,four,idi,3.27,3.35,56.0,4500.0,7788.0
+no riesgoso,0,91.0,toyota,gas,std,four,sedan,fwd,front,64.4,53.0,ohc,four,2bbl,3.19,3.03,70.0,4800.0,7738.0
+no riesgoso,0,91.0,toyota,gas,std,four,hatchback,fwd,front,64.4,52.8,ohc,four,2bbl,3.19,3.03,70.0,4800.0,8358.0
+no riesgoso,0,91.0,toyota,gas,std,four,sedan,fwd,front,64.4,52.8,ohc,four,2bbl,3.19,3.03,70.0,4800.0,9258.0
+no riesgoso,0,108.09,volkswagen,gas,std,four,sedan,fwd,front,66.9,55.1,ohc,five,mpfi,3.19,3.4,110.0,5500.0,13295.0
+no riesgoso,0,108.09,volkswagen,diesel,turbo,four,sedan,fwd,front,66.9,55.1,ohc,four,idi,3.01,3.4,68.0,4500.0,13845.0
+no riesgoso,0,108.09,volkswagen,gas,std,four,wagon,fwd,front,66.9,55.1,ohc,four,mpfi,3.19,3.4,88.0,5500.0,12290.0
+no riesgoso,1,126.35,alfa-romero,gas,std,two,hatchback,rwd,front,65.5,52.4,ohcv,six,mpfi,3.1,3.47,154.0,5000.0,7269.5
+no riesgoso,1,158.0,audi,gas,std,four,sedan,fwd,front,71.4,55.7,ohc,five,mpfi,3.19,3.4,110.0,5500.0,7269.5
+no riesgoso,1,126.35,audi,gas,std,four,wagon,fwd,front,71.4,55.7,ohc,five,mpfi,3.19,3.4,110.0,5500.0,7269.5
+no riesgoso,1,158.0,audi,gas,turbo,four,sedan,fwd,front,71.4,55.9,ohc,five,mpfi,3.13,3.4,140.0,5500.0,7269.5
+no riesgoso,1,126.35,bmw,gas,std,four,sedan,rwd,front,66.9,55.7,ohc,six,mpfi,3.31,3.19,121.0,4250.0,7269.5
+no riesgoso,1,98.0,chevrolet,gas,std,two,hatchback,fwd,front,63.6,52.0,ohc,four,2bbl,3.03,3.11,70.0,5400.0,6295.0
+no riesgoso,1,118.0,dodge,gas,std,two,hatchback,fwd,front,63.8,50.8,ohc,four,2bbl,2.97,3.23,68.0,5500.0,5572.0
+no riesgoso,1,118.0,dodge,gas,std,two,hatchback,fwd,front,63.8,50.8,ohc,four,2bbl,2.97,3.23,68.0,5500.0,6377.0
+no riesgoso,1,118.0,dodge,gas,turbo,two,hatchback,fwd,front,63.8,50.8,ohc,four,mpfi,3.03,3.39,102.0,5500.0,7957.0
+no riesgoso,1,148.0,dodge,gas,std,four,hatchback,fwd,front,63.8,50.6,ohc,four,2bbl,2.97,3.23,68.0,5500.0,6229.0
+no riesgoso,1,148.0,dodge,gas,std,four,sedan,fwd,front,63.8,50.6,ohc,four,2bbl,2.97,3.23,68.0,5500.0,6692.0
+no riesgoso,1,148.0,dodge,gas,std,four,sedan,fwd,front,63.8,50.6,ohc,four,2bbl,2.97,3.23,68.0,5500.0,7609.0
+no riesgoso,1,148.0,dodge,gas,turbo,two,sedan,fwd,front,63.8,50.6,ohc,four,mpfi,3.03,3.39,102.0,5500.0,8558.0
+no riesgoso,1,101.0,honda,gas,std,two,hatchback,fwd,front,64.0,52.6,ohc,four,1bbl,2.91,3.07,60.0,5500.0,5399.0
+no riesgoso,1,101.0,honda,gas,std,two,hatchback,fwd,front,64.0,52.6,ohc,four,1bbl,2.91,3.41,76.0,6000.0,6529.0
+no riesgoso,1,101.0,honda,gas,std,two,hatchback,fwd,front,64.0,52.6,ohc,four,1bbl,2.91,3.41,76.0,6000.0,7129.0
+no riesgoso,1,107.0,honda,gas,std,two,sedan,fwd,front,66.0,51.0,ohc,four,2bbl,3.15,3.58,100.0,5500.0,10345.0
+no riesgoso,1,126.35,isuzu,gas,std,two,sedan,fwd,front,63.6,52.0,ohc,four,2bbl,3.03,3.11,70.0,5400.0,7269.5
+no riesgoso,1,104.0,mazda,gas,std,two,hatchback,fwd,front,64.2,54.1,ohc,four,2bbl,3.03,3.15,68.0,5000.0,5195.0
+no riesgoso,1,104.0,mazda,gas,std,two,hatchback,fwd,front,64.2,54.1,ohc,four,2bbl,3.03,3.15,68.0,5000.0,6095.0
+no riesgoso,1,104.0,mazda,gas,std,two,hatchback,fwd,front,64.2,54.1,ohc,four,2bbl,3.03,3.15,68.0,5000.0,6795.0
+no riesgoso,1,113.0,mazda,gas,std,four,sedan,fwd,front,64.2,54.1,ohc,four,2bbl,3.03,3.15,68.0,5000.0,6695.0
+no riesgoso,1,113.0,mazda,gas,std,four,sedan,fwd,front,64.2,54.1,ohc,four,2bbl,3.08,3.15,68.0,5000.0,7395.0
+no riesgoso,1,129.0,mazda,gas,std,two,hatchback,fwd,front,66.5,53.7,ohc,four,2bbl,3.39,3.39,84.0,4800.0,8845.0
+no riesgoso,1,129.0,mazda,gas,std,two,hatchback,fwd,front,66.5,53.7,ohc,four,2bbl,3.39,3.39,84.0,4800.0,10595.0
+no riesgoso,1,126.35,mercedes-benz,gas,std,two,hardtop,rwd,front,72.0,55.4,ohcv,eight,mpfi,3.1,3.35,184.0,4500.0,7269.5
+no riesgoso,1,126.35,mercury,gas,turbo,two,hatchback,rwd,front,68.0,54.8,ohc,four,mpfi,3.1,3.12,175.0,5000.0,7269.5
+no riesgoso,1,161.0,mitsubishi,gas,turbo,two,hatchback,fwd,front,63.8,50.8,ohc,four,spdi,3.03,3.39,102.0,5500.0,7689.0
+no riesgoso,1,125.0,mitsubishi,gas,std,four,sedan,fwd,front,65.4,51.6,ohc,four,2bbl,3.35,3.46,88.0,5000.0,6989.0
+no riesgoso,1,125.0,mitsubishi,gas,std,four,sedan,fwd,front,65.4,51.6,ohc,four,2bbl,3.35,3.46,88.0,5000.0,8189.0
+no riesgoso,1,125.0,mitsubishi,gas,turbo,four,sedan,fwd,front,65.4,51.6,ohc,four,spdi,3.17,3.46,116.0,5500.0,9279.0
+no riesgoso,1,128.0,nissan,gas,std,two,sedan,fwd,front,63.8,54.5,ohc,four,2bbl,3.15,3.29,69.0,5200.0,5499.0
+no riesgoso,1,128.0,nissan,diesel,std,two,sedan,fwd,front,63.8,54.5,ohc,four,idi,2.99,3.47,55.0,4800.0,7099.0
+no riesgoso,1,128.0,nissan,gas,std,two,sedan,fwd,front,63.8,54.5,ohc,four,2bbl,3.15,3.29,69.0,5200.0,6649.0
+no riesgoso,1,122.0,nissan,gas,std,four,sedan,fwd,front,63.8,54.5,ohc,four,2bbl,3.15,3.29,69.0,5200.0,6849.0
+no riesgoso,1,103.0,nissan,gas,std,four,wagon,fwd,front,63.8,53.5,ohc,four,2bbl,3.15,3.29,69.0,5200.0,7349.0
+no riesgoso,1,128.0,nissan,gas,std,two,sedan,fwd,front,63.8,54.5,ohc,four,2bbl,3.15,3.29,69.0,5200.0,7299.0
+no riesgoso,1,128.0,nissan,gas,std,two,hatchback,fwd,front,63.8,53.3,ohc,four,2bbl,3.15,3.29,69.0,5200.0,7799.0
+no riesgoso,1,122.0,nissan,gas,std,four,sedan,fwd,front,63.8,54.5,ohc,four,2bbl,3.15,3.29,69.0,5200.0,7499.0
+no riesgoso,1,103.0,nissan,gas,std,four,wagon,fwd,front,63.8,53.5,ohc,four,2bbl,3.15,3.29,69.0,5200.0,7999.0
+no riesgoso,1,126.35,nissan,gas,std,two,hatchback,rwd,front,67.9,49.7,ohcv,six,mpfi,3.43,3.27,160.0,5200.0,7269.5
+no riesgoso,1,119.0,plymouth,gas,std,two,hatchback,fwd,front,63.8,50.8,ohc,four,2bbl,2.97,3.23,68.0,5500.0,5572.0
+no riesgoso,1,119.0,plymouth,gas,turbo,two,hatchback,fwd,front,63.8,50.8,ohc,four,spdi,3.03,3.39,102.0,5500.0,7957.0
+no riesgoso,1,154.0,plymouth,gas,std,four,hatchback,fwd,front,63.8,50.6,ohc,four,2bbl,2.97,3.23,68.0,5500.0,6229.0
+no riesgoso,1,154.0,plymouth,gas,std,four,sedan,fwd,front,63.8,50.8,ohc,four,2bbl,2.97,3.23,68.0,5500.0,6692.0
+no riesgoso,1,154.0,plymouth,gas,std,four,sedan,fwd,front,63.8,50.8,ohc,four,2bbl,2.97,3.23,68.0,5500.0,7609.0
+no riesgoso,1,126.35,porsche,gas,std,two,hatchback,rwd,front,72.3,50.5,dohcv,eight,mpfi,3.1,3.11,288.0,5750.0,7269.5
+no riesgoso,1,87.0,toyota,gas,std,two,hatchback,fwd,front,63.6,54.5,ohc,four,2bbl,3.05,3.03,62.0,4800.0,5348.0
+no riesgoso,1,87.0,toyota,gas,std,two,hatchback,fwd,front,63.6,54.5,ohc,four,2bbl,3.05,3.03,62.0,4800.0,6338.0
+no riesgoso,1,74.0,toyota,gas,std,four,hatchback,fwd,front,63.6,54.5,ohc,four,2bbl,3.05,3.03,62.0,4800.0,6488.0
+no riesgoso,1,168.0,toyota,gas,std,two,sedan,rwd,front,64.0,52.6,ohc,four,2bbl,3.19,3.03,70.0,4800.0,8058.0
+no riesgoso,1,168.0,toyota,gas,std,two,hatchback,rwd,front,64.0,52.6,ohc,four,2bbl,3.19,3.03,70.0,4800.0,8238.0
+no riesgoso,1,168.0,toyota,gas,std,two,sedan,rwd,front,64.0,52.6,dohc,four,mpfi,3.24,3.08,112.0,6600.0,9298.0
+no riesgoso,1,168.0,toyota,gas,std,two,hatchback,rwd,front,64.0,52.6,dohc,four,mpfi,3.24,3.08,112.0,6600.0,9538.0
+no riesgoso,2,164.0,audi,gas,std,four,sedan,fwd,front,66.2,54.3,ohc,four,mpfi,3.19,3.4,102.0,5500.0,13950.0
+no riesgoso,2,164.0,audi,gas,std,four,sedan,4wd,front,66.4,54.3,ohc,five,mpfi,3.19,3.4,115.0,5500.0,17450.0
+no riesgoso,2,125.69,audi,gas,std,two,sedan,fwd,front,66.3,53.1,ohc,five,mpfi,3.19,3.4,110.0,5500.0,15250.0
+no riesgoso,2,192.0,bmw,gas,std,two,sedan,rwd,front,64.8,54.3,ohc,four,mpfi,3.5,3.34,101.0,5800.0,16430.0
+no riesgoso,2,121.0,chevrolet,gas,std,two,hatchback,fwd,front,60.3,53.2,l,three,2bbl,2.91,3.03,48.0,5100.0,5151.0
+no riesgoso,2,137.0,honda,gas,std,two,hatchback,fwd,front,63.9,50.8,ohc,four,1bbl,2.91,3.41,58.0,4800.0,6479.0
+no riesgoso,2,137.0,honda,gas,std,two,hatchback,fwd,front,63.9,50.8,ohc,four,1bbl,2.91,3.41,76.0,6000.0,6855.0
+no riesgoso,2,125.69,isuzu,gas,std,two,hatchback,rwd,front,65.2,51.4,ohc,four,spfi,3.43,3.23,90.0,5000.0,11048.0
+no riesgoso,2,161.0,mitsubishi,gas,std,two,hatchback,fwd,front,64.4,50.8,ohc,four,2bbl,2.97,3.23,68.0,5500.0,5389.0
+no riesgoso,2,161.0,mitsubishi,gas,std,two,hatchback,fwd,front,64.4,50.8,ohc,four,2bbl,2.97,3.23,68.0,5500.0,6189.0
+no riesgoso,2,161.0,mitsubishi,gas,std,two,hatchback,fwd,front,64.4,50.8,ohc,four,2bbl,2.97,3.23,68.0,5500.0,6669.0
+no riesgoso,2,168.0,nissan,gas,std,two,hardtop,fwd,front,63.8,53.3,ohc,four,2bbl,3.15,3.29,69.0,5200.0,8249.0
+no riesgoso,2,125.69,renault,gas,std,two,hatchback,fwd,front,66.6,50.5,ohc,four,mpfi,3.46,3.34,116.0,5120.97,9895.0
+no riesgoso,2,104.0,saab,gas,std,four,sedan,fwd,front,66.5,56.1,ohc,four,mpfi,3.54,3.07,110.0,5250.0,12170.0
+no riesgoso,2,104.0,saab,gas,std,four,sedan,fwd,front,66.5,56.1,ohc,four,mpfi,3.54,3.07,110.0,5250.0,15510.0
+no riesgoso,2,104.0,saab,gas,turbo,four,sedan,fwd,front,66.5,56.1,dohc,four,mpfi,3.54,3.07,160.0,5500.0,18620.0
+no riesgoso,2,83.0,subaru,gas,std,two,hatchback,fwd,front,63.4,53.7,ohcf,four,2bbl,3.62,3.34,69.0,4900.0,5118.0
+no riesgoso,2,83.0,subaru,gas,std,two,hatchback,fwd,front,63.6,53.7,ohcf,four,2bbl,3.62,3.34,73.0,4400.0,7053.0
+no riesgoso,2,83.0,subaru,gas,std,two,hatchback,4wd,front,63.8,55.7,ohcf,four,2bbl,3.62,3.34,73.0,4400.0,7603.0
+no riesgoso,2,134.0,toyota,gas,std,two,hardtop,rwd,front,65.6,52.0,ohc,four,mpfi,3.62,3.5,116.0,4800.0,8449.0
+no riesgoso,2,134.0,toyota,gas,std,two,hardtop,rwd,front,65.6,52.0,ohc,four,mpfi,3.62,3.5,116.0,4800.0,9639.0
+no riesgoso,2,134.0,toyota,gas,std,two,hatchback,rwd,front,65.6,52.0,ohc,four,mpfi,3.62,3.5,116.0,4800.0,9989.0
+no riesgoso,2,134.0,toyota,gas,std,two,hardtop,rwd,front,65.6,52.0,ohc,four,mpfi,3.62,3.5,116.0,4800.0,11199.0
+no riesgoso,2,134.0,toyota,gas,std,two,hatchback,rwd,front,65.6,52.0,ohc,four,mpfi,3.62,3.5,116.0,4800.0,11549.0
+no riesgoso,2,134.0,toyota,gas,std,two,convertible,rwd,front,65.6,53.0,ohc,four,mpfi,3.62,3.5,116.0,4800.0,17669.0
+no riesgoso,2,122.0,volkswagen,diesel,std,two,sedan,fwd,front,65.5,55.7,ohc,four,idi,3.01,3.4,52.0,4800.0,7775.0
+no riesgoso,2,122.0,volkswagen,gas,std,two,sedan,fwd,front,65.5,55.7,ohc,four,mpfi,3.19,3.4,85.0,5250.0,7975.0
+no riesgoso,2,94.0,volkswagen,diesel,std,four,sedan,fwd,front,65.5,55.7,ohc,four,idi,3.01,3.4,52.0,4800.0,7995.0
+no riesgoso,2,94.0,volkswagen,gas,std,four,sedan,fwd,front,65.5,55.7,ohc,four,mpfi,3.19,3.4,85.0,5250.0,8195.0
+no riesgoso,2,94.0,volkswagen,gas,std,four,sedan,fwd,front,65.5,55.7,ohc,four,mpfi,3.19,3.4,85.0,5250.0,8495.0
+no riesgoso,2,94.0,volkswagen,diesel,turbo,four,sedan,fwd,front,65.5,55.7,ohc,four,idi,3.01,3.4,68.0,4500.0,9495.0
+no riesgoso,2,94.0,volkswagen,gas,std,four,sedan,fwd,front,65.5,55.7,ohc,four,mpfi,3.19,3.4,100.0,5500.0,9995.0
+no riesgoso,3,168.65,alfa-romero,gas,std,two,convertible,rwd,front,64.1,48.8,dohc,four,mpfi,3.47,2.68,111.0,5000.0,13495.0
+no riesgoso,3,168.65,alfa-romero,gas,std,two,convertible,rwd,front,64.1,48.8,dohc,four,mpfi,3.47,2.68,111.0,5000.0,16500.0
+no riesgoso,3,145.0,dodge,gas,turbo,two,hatchback,fwd,front,66.3,50.2,ohc,four,mfi,3.6,3.9,145.0,5000.0,12964.0
+no riesgoso,3,150.0,mazda,gas,std,two,hatchback,rwd,front,65.7,49.6,rotor,two,4bbl,3.49,3.3,101.0,6000.0,10945.0
+no riesgoso,3,150.0,mazda,gas,std,two,hatchback,rwd,front,65.7,49.6,rotor,two,4bbl,3.49,3.3,101.0,6000.0,11845.0
+no riesgoso,3,150.0,mazda,gas,std,two,hatchback,rwd,front,65.7,49.6,rotor,two,4bbl,3.49,3.3,101.0,6000.0,13645.0
+no riesgoso,3,150.0,mazda,gas,std,two,hatchback,rwd,front,65.7,49.6,rotor,two,mpfi,3.49,3.3,135.0,6000.0,15645.0
+no riesgoso,3,142.0,mercedes-benz,gas,std,two,convertible,rwd,front,70.5,50.8,ohcv,eight,mpfi,3.46,3.1,155.0,4750.0,35056.0
+no riesgoso,3,153.0,mitsubishi,gas,turbo,two,hatchback,fwd,front,65.4,49.4,ohc,four,spdi,3.17,3.46,116.0,5500.0,9959.0
+no riesgoso,3,153.0,mitsubishi,gas,std,two,hatchback,fwd,front,65.4,49.4,ohc,four,2bbl,3.35,3.46,88.0,5000.0,8499.0
+no riesgoso,3,168.65,mitsubishi,gas,turbo,two,hatchback,fwd,front,66.3,50.2,ohc,four,spdi,3.58,3.86,145.0,5000.0,12629.0
+no riesgoso,3,168.65,mitsubishi,gas,turbo,two,hatchback,fwd,front,66.3,50.2,ohc,four,spdi,3.59,3.86,145.0,5000.0,14869.0
+no riesgoso,3,168.65,mitsubishi,gas,turbo,two,hatchback,fwd,front,66.3,50.2,ohc,four,spdi,3.59,3.86,145.0,5000.0,14489.0
+no riesgoso,3,194.0,nissan,gas,std,two,hatchback,rwd,front,67.9,49.7,ohcv,six,mpfi,3.43,3.27,160.0,5200.0,17199.0
+no riesgoso,3,194.0,nissan,gas,turbo,two,hatchback,rwd,front,67.9,49.7,ohcv,six,mpfi,3.43,3.27,200.0,5200.0,19699.0
+no riesgoso,3,168.65,plymouth,gas,turbo,two,hatchback,rwd,front,66.3,50.2,ohc,four,spdi,3.59,3.86,145.0,5000.0,12764.0
+no riesgoso,3,186.0,porsche,gas,std,two,hatchback,rwd,front,68.3,50.2,ohc,four,mpfi,3.94,3.11,143.0,5500.0,22018.0
+no riesgoso,3,168.65,porsche,gas,std,two,hardtop,rwd,rear,65.0,51.6,ohcf,six,mpfi,3.74,2.9,207.0,5900.0,32528.0
+no riesgoso,3,168.65,porsche,gas,std,two,hardtop,rwd,rear,65.0,51.6,ohcf,six,mpfi,3.74,2.9,207.0,5900.0,34028.0
+no riesgoso,3,168.65,porsche,gas,std,two,convertible,rwd,rear,65.0,51.6,ohcf,six,mpfi,3.74,2.9,207.0,5900.0,37028.0
+no riesgoso,3,150.0,saab,gas,std,two,hatchback,fwd,front,66.5,56.1,ohc,four,mpfi,3.54,3.07,110.0,5250.0,11850.0
+no riesgoso,3,150.0,saab,gas,std,two,hatchback,fwd,front,66.5,56.1,ohc,four,mpfi,3.49,3.3,110.0,5250.0,15040.0
+no riesgoso,3,150.0,saab,gas,turbo,two,hatchback,fwd,front,66.5,56.1,dohc,four,mpfi,3.54,3.07,160.0,5500.0,18150.0
+no riesgoso,3,197.0,toyota,gas,std,two,hatchback,rwd,front,67.7,52.0,dohc,six,mpfi,3.27,3.35,161.0,5200.0,16558.0
+no riesgoso,3,197.0,toyota,gas,std,two,hatchback,rwd,front,67.7,52.0,dohc,six,mpfi,3.27,3.35,161.0,5200.0,15998.0
+no riesgoso,3,168.65,volkswagen,gas,std,two,convertible,fwd,front,64.2,55.6,ohc,four,mpfi,3.19,3.4,90.0,5500.0,11595.0
+no riesgoso,3,256.0,volkswagen,gas,std,two,hatchback,fwd,front,64.0,51.4,ohc,four,mpfi,3.19,3.4,90.0,5500.0,9980.0
